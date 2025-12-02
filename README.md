@@ -1,6 +1,6 @@
 # pBio
 
-This repository contains the required files for `Prompt-Based Generation of Bioinformatic Pipelines: A Minimal Metaviral Case Study`
+This repository contains the required files for `Prompt-Based Bioinformatic Pipeline Generation for a Multi-Step Metaviral Workflow`
 
 ## Citation
 
