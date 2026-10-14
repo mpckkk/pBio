@@ -1,6 +1,6 @@
 # pBio
 
-<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
+[![Dimensions](https://img.shields.io/badge/Dimensions-view%20article-2A6FDB)](https://doi.org/10.1001/jama.2016.9797)
 
 
 This repository contains the required files for `Prompt-Based Bioinformatic Pipeline Generation for a Multi-Step Metaviral Workflow`
